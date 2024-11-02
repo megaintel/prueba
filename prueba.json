@@ -47,7 +47,11 @@
         "uri": "IxHAkp0RXN5fDskq+FG3ooP1RAokxx7Op8JcgXeGQQ/xXq47i6Zk2M9E1m9+wYxirtvW+1ItvhR+9EXRJggMyj7utvOKynOw8dJ+wzEjECc=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YtPAaXWSxg/IZKy7mzqCO4hrm3cJkkSqjDYpJKehEX59/SKWfR1zuUG9M36T3UAQtxrafkLPLl0IfyjPn53boeF2WwmoQhtFGofLfcxpfjDJ6SmEzAkhp8Wb0lhVYd93za+AcmX4WQIBlzrZIDLO1VqWwGfSvupHd66bM5yXng0IB4HIapS14K3L7kknBr6+RmKWujnO+5E1PUV3GcOD3Q==",
-        "icono": "https://i.postimg.cc/bNNGg4Cv/sky-sports-laliga.png"
+        "icono": "https://i.postimg.cc/bNNGg4Cv/sky-sports-laliga.png",
+        "drm_headers_uri": {
+          "Host": "https://example.com/header",
+          "header_license_uri": "https://example.com/license"
+        }
       },
       {
         "name": "BUNDESLIGA",
