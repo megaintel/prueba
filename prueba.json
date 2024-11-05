@@ -13,11 +13,11 @@
     "name": "📡 Y SI QUIERES SER ESTAFADO CON LA APP CON USUARIO Y CONTRASEÑA. ✅",
     "samples": [
       {
-        "icon": "http://static.tvar.io/imagenes/americatv.png",
-        "name": "AMERICA TV 2",
+        "icon": "http://static.tvar.io/imagenes/elnueve.png",
+        "name": "9",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM+EYkuN3oqO6F90gdej2UEQa6/xIrRvBUXMVUAdi5F2nuKQ1264dGTTUn9orjIFDxH+zaEuhy7QsGJeSdIi/rkE",
-        "drm_headers_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6mIVBmfk5qole3qoj6W0xs"
+        "uri": "b+QSGe9itEwwoKyzCS+bM05HyBTHGFAlhjPPFu9dNInYtregPBoH8XQ/+P1bJmrBfcHSi/mw8ELUhkrzsNHuhg",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aXIg5uiDlb/7GB2gQgiZx"
       }
     ]
   },
